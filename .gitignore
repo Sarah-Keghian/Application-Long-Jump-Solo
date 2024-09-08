@@ -3,8 +3,9 @@
 *.exe
 *.class
 
-# Ignorer les fichiers xml
+# Ignorer modifs automatiques de fichiers
 *.xml
+.idea
 
 # Ignorer les fichiers de base de données
 *.db
