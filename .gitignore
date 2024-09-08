@@ -5,7 +5,7 @@
 
 # Ignorer modifs automatiques de fichiers
 *.xml
-.idea/
+.idea\
 
 # Ignorer les fichiers de base de données
 *.db
