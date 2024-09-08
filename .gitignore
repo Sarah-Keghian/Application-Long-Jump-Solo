@@ -1,1 +1,10 @@
+# Ignorer les fichiers compilés
+*.o
+*.exe
+*.class
 
+# Ignorer les fichiers xml
+*.xml
+
+# Ignorer les fichiers de base de données
+*.db
